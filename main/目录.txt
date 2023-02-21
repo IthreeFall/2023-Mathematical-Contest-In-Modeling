@@ -1,0 +1,10 @@
+    name                                          format                explain
+--data                                             folder                 计算模型时需要和产生的数据。
+--img                                              image                 数据中特定变化的图形表示。
+--dataDispose                                 python code      数据清洗的程序。
+--GDD_U                                         matlab code      生成干旱湿度数据的函数。
+--GeneratingDroughtDataDrawn    matlab code      程序生成干旱湿度图片。
+--LotkaVolterra                               matlab code      建立并计算主程序的模型。
+--matchingAndDrawn                     matlab code      拟合原始数据并绘制拟合图像的程序
+--ODE4                                           matlab code      函数的四阶龙格-库塔算法。
+

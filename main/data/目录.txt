@@ -1,0 +1,7 @@
+name              格式        说明
+data_12_22      CSV         洛杉矶12年至22年的温度湿度降水数据
+los                   XLS         洛杉矶原始的各项气候数据
+declaration      txt           数据来源声明
+lowUData        mat         程序生成的干旱时的湿度数据基于sinx
+pT                   mat          多项式拟合data_12_22的温度的参数
+pU                   mat         多项式拟合data_12_22的湿度的参数
